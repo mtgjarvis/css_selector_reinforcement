@@ -1,0 +1,15 @@
+:hover {
+    color: red;
+}
+
+.paragraph {
+    color: blue;
+}
+
+h1 {
+    font-size: 90px;
+}
+
+.images {
+    display: inline-block;
+}
